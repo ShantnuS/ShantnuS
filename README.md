@@ -2,8 +2,9 @@
 
 I am a Customer Engineer in the Microsoft Digital and App Innovation team. I work on things related to Azure Integration, Serverless and DevOps. In my spare time I make random things that sometimes work but usually don't. Reach out to me on LinkedIn if you need anything 😀.
 
-**Codewars:**
-![codewars](https://www.codewars.com/users/ShantnuS/badges/large)
+**Codewars:**  
+  
+![codewars](https://www.codewars.com/users/ShantnuS/badges/small)
 
 <!--
 **ShantnuS/ShantnuS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
