@@ -9,7 +9,7 @@ I am a Customer Engineer in the Microsoft Digital and App Innovation team. I wor
 **GitHub Stats:**  
   
 ![Shan's Overview](https://github-readme-stats.vercel.app/api?username=ShantnuS&count_private=true)  
-![Shan' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShantnuS&layout=compact)  
+![Shan' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShantnuS&hide=c++&layout=compact)  
 
 <!--
 **ShantnuS/ShantnuS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
