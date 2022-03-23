@@ -1,6 +1,6 @@
 ### Hello 🎉
 
-I am a Customer Engineer in the Microsoft Digital and App Innovation team. I work on things related to Azure Integration, Serverless and DevOps. In my spare time I make random things that sometimes work but usually don't. Reach out to me on LinkedIn if you need anything 😀.
+I am a Customer Engineer in the Microsoft Digital and App Innovation team. I work on things related to Azure Integration, Serverless and DevOps. In my spare time I make random things that sometimes work but usually don't. Reach out to me on LinkedIn if you need anything 🙂.
 
 **Codewars:**  
   
